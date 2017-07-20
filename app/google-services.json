@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1085581106305",
+    "firebase_url": "https://fir-database-2a5b1.firebaseio.com",
+    "project_id": "fir-database-2a5b1",
+    "storage_bucket": "fir-database-2a5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085581106305:android:4455c6a27e47ed03",
+        "android_client_info": {
+          "package_name": "asia.trente.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085581106305-b1snuua2dr1nk3r3059ls921jfo2s5dg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "asia.trente.firebasedatabase",
+            "certificate_hash": "a538a0a3eb8c8de5a3a904fb6e490b46667b89be"
+          }
+        },
+        {
+          "client_id": "1085581106305-g1bsr8itcs8lpolht797cqvg758ijkjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd74ZyqzDvvCy6Y-rG6hOYhbVlJTKaICM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085581106305-g1bsr8itcs8lpolht797cqvg758ijkjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
